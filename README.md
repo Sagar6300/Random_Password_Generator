@@ -8,7 +8,7 @@ This is a **Responsive Password Generator Web Application** that allows users to
 
 ## View the live website
 
-🔗 [Click the link to view the website](https://password-generator-two-mauve.vercel.app/)  
+🔗 (Click the link to view the website)(https://password-generator-two-mauve.vercel.app/)  
 
 ---
 
@@ -32,7 +32,7 @@ This is a **Responsive Password Generator Web Application** that allows users to
 | Frontend   | HTML, CSS      |
 | Logic      | JavaScript     |
 | UI Icons   | Google Material Symbols |
-| Deployment | (Optional) GitHub Pages / Render / Netlify |
+| Deployment | Vercel|
 
 ---
 
