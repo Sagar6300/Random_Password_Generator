@@ -8,7 +8,7 @@ This is a **Responsive Password Generator Web Application** that allows users to
 
 ## View the live website
 
-    Click the link to view the website(https://password-generator-two-mauve.vercel.app/)  
+  Click the link to view the website(https://password-generator-two-mauve.vercel.app/)  
 
 ---
 
